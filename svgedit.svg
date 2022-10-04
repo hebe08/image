@@ -1,0 +1,15 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#EEFF9F" id="svg_15" height="43.57471" width="45" y="144.27356" x="578.59999" stroke-width="3" fill="none"/>
+  <rect id="svg_12" height="295" width="399" y="168.2" x="204.6" stroke-width="3" stroke="#9bdbc1" fill="none"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Noto Sans Display'" font-size="100" id="svg_1" y="218.2" x="118.6" stroke-width="0" stroke="#000" fill="#f3ffbc">NCYU</text>
+  <text transform="matrix(1.51173 0 0 1 -144.524 93)" stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Noto Sans Display'" font-size="100" id="svg_7" y="137.2" x="184.06427" stroke-width="0" fill="#7DD8B5">MIS</text>
+  <text transform="matrix(1.51173 0 0 1 171.476 342)" stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Noto Sans Display'" font-size="100" id="svg_11" y="137.2" x="184.06427" stroke-width="0" fill="#7DD8B5">MIS</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Noto Sans Display'" font-size="100" id="svg_10" y="467.2" x="434.6" stroke-width="0" stroke="#000" fill="#EEFF9F">NCYU</text>
+  <rect stroke="#EEFF9F" id="svg_14" height="48.44828" width="46" y="438.4" x="177.6" stroke-width="3" fill="none"/>
+  <rect transform="rotate(38.6143 390.553 303.474)" stroke="#EEFF9F" id="svg_16" height="298.65347" width="295.05176" y="154.14732" x="243.02723" stroke-width="3" fill="none"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Noto Sans Display'" font-size="100" id="svg_18" y="467.2" x="434.6" stroke-width="0" stroke="#000" fill="#f2ffb2">NCYU</text>
+ </g>
+</svg>
